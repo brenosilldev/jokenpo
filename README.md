@@ -18,7 +18,7 @@ Este projeto é um jogo de **Jokenpô (Pedra, Papel e Tesoura)** desenvolvido co
 
 Clique no botão abaixo para acessar o site em produção:
 
-[![Site Jokenpô](https://img.shields.io/badge/dede-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://jokenpo-y65v.onrender.com/)
+[![Site Jokenpô](https://img.shields.io/badge/Jokenpô-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://jokenpo-y65v.onrender.com/)
 
 ---
 
