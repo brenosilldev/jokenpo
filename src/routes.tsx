@@ -8,16 +8,9 @@ const Rotas = () =>{
     return(
         <>
             <Routes>
-               
                 <Route  path="/" element={<Play />} />
-                <Route  path="game" element={<Game />} />
-    
-         
-                
+                <Route  path="game" element={<Game />} />                
             </Routes>
-            
-        
-        
         </>
     )
 }
