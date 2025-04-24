@@ -6,17 +6,26 @@ Este projeto é um jogo de **Jokenpô (Pedra, Papel e Tesoura)** desenvolvido co
 
 ## 🛠️ Tecnologias Utilizadas
 
-- ⚛️ React 18
-- ⚡ Vite
-- 🔒 TypeScript
-- ✅ ESLint
+- ⚛️ React 18  
+- ⚡ Vite  
+- 🔒 TypeScript  
+- ✅ ESLint  
 - 🧠 Zustand (estado global)
 
 ---
 
-## 🚀 Rodando o Projeto
+## 🌐 Acesse o site online
+
+Clique no botão abaixo para acessar o site em produção:
+
+[![Site Jokenpô](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://jokenpo-y65v.onrender.com/)
+
+---
+
+## 🚀 Rodando o Projeto Localmente
+
+Para instalar as dependências e iniciar o servidor de desenvolvimento:
 
 ```bash
 npm install
 npm run dev
-[![Site jokenpo](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://jokenpo-y65v.onrender.com/)
